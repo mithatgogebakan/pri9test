@@ -1,4 +1,4 @@
-[[](https://upload.wikimedia.org/wikipedia/commons/1/1a/Image_upload_test.jpg)](https://upload.wikimedia.org/wikipedia/commons/1/1a/Image_upload_test.jpg)
+![[](https://upload.wikimedia.org/wikipedia/commons/1/1a/Image_upload_test.jpg)](https://upload.wikimedia.org/wikipedia/commons/1/1a/Image_upload_test.jpg)
 
 
 ![GitHub Logo](https://upload.wikimedia.org/wikipedia/commons/1/1a/Image_upload_test.jpg)
